@@ -1,14 +1,14 @@
 {
   "bot-account": {
-    "username": "bot",
-    "password": "your_password",
+    "username": "Afk_Bot",
+    "password": "va2008va",
     "type": "microsoft"
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
-    "version": "1.19.3"
+    "ip": "Vijaysmp.aternos.me",
+    "port": 47782,
+    "version": "1.21.5"
   },
 
   "position": {
